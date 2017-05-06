@@ -1,2 +1,3 @@
 i am vinci, a person normally.
 for release version ,i add this line.
+for bug fix ,i add this line.
